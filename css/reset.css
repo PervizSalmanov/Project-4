@@ -1,0 +1,9 @@
+* {
+	margin: 0;
+	padding: 0; 
+}
+
+
+.inner {min-width: 980px; max-width: 1200px;  margin: 0 auto; height: auto;}
+
+#wrapper {width: 100%; height: auto; min-height: 100%; min-width: 980px;}
